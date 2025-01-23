@@ -12,7 +12,7 @@ I strive to write clean, efficient, and scalable code while continually learning
 
 ---
 
-![Snake animation](https://github.com/<elinakly>/<elinakly>/blob/output/snake-contributions.svg)
+![Snake animation](https://github.com/elinakly/elinakly/blob/output/snake-contributions.svg)
 
 ## 🌟 Highlights
 
