@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Header Animation](https://user-images.githubusercontent.com/00000000/placeholder.gif)
+
 
 ## About Me 🚀
 
