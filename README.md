@@ -14,8 +14,6 @@ I strive to write clean, efficient, and scalable code while continually learning
 
 ![Snake animation](https://github.com/elinakly/elinakly/blob/output/github-contribution-grid-snake-dark.svg)
 
-## 🌟 Highlights
-
 ## Projects
 1. **[Push_swap](https://github.com/yourusername/push_swap42)**: A project implementing sorting algorithms in C.
 2. **[Ft_printf](https://github.com/yourusername/ft_printf42)**: A custom implementation of the C `printf` function.
@@ -32,10 +30,6 @@ Visual Studio Code, Vim
 
 ### Other Utilities
 Bash/Shell scripting
-
-## Achievements
-- **42 School Projects**: Successfully completed with high evaluations.
-- **Top Scores**: Achieved 100+ points on multiple projects.
 
 ---
 
