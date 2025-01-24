@@ -1,7 +1,7 @@
 name: snake animation
 
 on:
-  # run automatically every 24 hours
+  # run automatically every 10 min
   schedule:
     - cron: "*/10 * * * *" 
 
