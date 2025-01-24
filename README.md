@@ -21,7 +21,7 @@ I strive to write clean, efficient, and scalable code while continually learning
 
 ## Frameworks & tools
 ### Game Development
-Unity, Unreal Engine, MLX42 (specific to 42 projects)
+Unreal Engine, Blender, MLX42 (specific to 42 projects)
 Data Science / Machine Learning
 
 ### Programming Tools
