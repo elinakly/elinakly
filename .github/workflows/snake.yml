@@ -13,14 +13,20 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
+      - name: Create Output Directory
+        run: mkdir -p dist
+
       - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
           github_user_name: elinakly # Your GitHub username
           outputs: dist/snake.svg
 
-      - name: Create Output Directory
-        run: mkdir -p dist
+      - name: Check if SVG exists
+        run: ls -l dist
+
+      - name: List files in dist directory
+        run: ls -l dist
 
       - name: Move Snake SVG to Output
         run: mv dist/snake.svg dist/snake-contributions.svg
@@ -30,3 +36,4 @@ jobs:
         with:
           name: snake
           path: dist/snake-contributions.svg
+
