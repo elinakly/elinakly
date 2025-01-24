@@ -6,7 +6,7 @@
 
 Hi! I'm Elina, a passionate developer, problem-solver, and tech enthusiast. I specialize in:
 - **Programming Languages**: C, C++
-- **Interests**: Algorithms, Software Development, Open Source
+- **Interests**: Algorithms, Software Development, Open Source, GameDev
 
 I strive to write clean, efficient, and scalable code while continually learning and growing.
 
