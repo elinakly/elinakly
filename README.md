@@ -35,14 +35,19 @@ Bash/Shell scripting
 
 ## 📈 GitHub Stats
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elinakly&layout=compact&theme=radical)
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=elinakly&show_icons=true&theme=radical)
 
 ---
 
 
 ## 💬 Contact Me
-- **Email**: klimova.elina85@gmail.com
-- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/elina-klymova?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:klimova.elina85@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/elina-klymova?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+
 
 Thank you for visiting my profile! Let’s build something amazing together! ✨
 
