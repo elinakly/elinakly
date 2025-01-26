@@ -22,7 +22,6 @@ I strive to write clean, efficient, and scalable code while continually learning
 ## Frameworks & tools
 ### Game Development
 Unreal Engine, Blender, MLX42 (specific to 42 projects)
-Data Science / Machine Learning
 
 ### Programming Tools
 Git, GCC, GDB, Valgrind, Makefile,
