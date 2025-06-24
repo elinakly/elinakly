@@ -15,9 +15,10 @@ I strive to write clean, efficient, and scalable code while continually learning
 ![Snake animation](https://github.com/elinakly/elinakly/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## Projects
-1. **[Push_swap](https://github.com/elinakly/push_swap42)**: A project implementing sorting algorithms in C.
-2. **[Ft_printf](https://github.com/elinakly/ft_printf42)**: A custom implementation of the C `printf` function.
-3. **[So_long](https://github.com/elinakly/so_long42)**: A game created using MLX42.
+1. **[Minishell](https://github.com/elinakly/minishell42)**: Implementation of bash.
+2. **[Push_swap](https://github.com/elinakly/push_swap42)**: A project implementing sorting algorithms in C.
+3. **[Ft_printf](https://github.com/elinakly/ft_printf42)**: A custom implementation of the C `printf` function.
+4. **[So_long](https://github.com/elinakly/so_long42)**: A game created using MLX42.
 
 ## Frameworks & tools
 ### Game Development
