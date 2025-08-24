@@ -5,7 +5,7 @@
 ## About Me 🚀
 
 Hi! I'm Elina, a passionate developer, problem-solver, and tech enthusiast. I specialize in:
-- **Programming Languages**: C, C++
+- **Programming Languages**: C, C++, Python
 - **Interests**: Algorithms, Software Development, Open Source, GameDev
 
 I strive to write clean, efficient, and scalable code while continually learning and growing.
@@ -18,7 +18,7 @@ I strive to write clean, efficient, and scalable code while continually learning
 1. **[Minishell](https://github.com/elinakly/minishell42)**: Implementation of bash.
 2. **[Push_swap](https://github.com/elinakly/push_swap42)**: A project implementing sorting algorithms in C.
 3. **[Ft_printf](https://github.com/elinakly/ft_printf42)**: A custom implementation of the C `printf` function.
-4. **[So_long](https://github.com/elinakly/so_long42)**: A game created using MLX42.
+4. **[Medieval Dungeon]([https://github.com/elinakly/UE5_Medieval_Dungeon]))**: A game created using Unreal Engine 5.
 
 ## Frameworks & tools
 ### Game Development
