@@ -35,9 +35,7 @@ Bash/Shell scripting
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elinakly&layout=compact&theme=radical)
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=elinakly&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=elinakly&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
